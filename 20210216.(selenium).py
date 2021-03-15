@@ -21,13 +21,13 @@ time.sleep(1)
 
 # id 입력
 tag_id.click()
-pyperclip.copy('whdgus1323')
+pyperclip.copy('rmrm15')
 tag_id.send_keys(Keys.CONTROL, 'v')
 time.sleep(1)
 
 # pw 입력
 tag_pw.click()
-pyperclip.copy('Name1s-JongHyeon')
+pyperclip.copy('wlstjd0098@')
 tag_pw.send_keys(Keys.CONTROL, 'v')
 time.sleep(1)
 
